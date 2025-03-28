@@ -1,0 +1,10 @@
+This is an application what has been made by EnKnarf and his team in 2025.
+This application can locate the StrongHold in Minecraft.
+All users should use the application for research or game playing only.
+All users and the developer must abide by the Minecraft EULA.
+
+All copyright reserved : The application development team, EnKnarf and Roaki_rov.
+You can use RSA (our public sign at: https://knarf.lanzoum.com/iCdmk2msa1uj ) to check its sign.
+
+Version: Release 1.0
+If there is anything not conform to the app's real content, this pack will be considered unlawful and the license will be no longer in force.
